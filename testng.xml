@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/testing/selenium/JavaCourse/WorkingWithElements">
+        <classes>
+<!--            <class name="cookbook.DoubleClickElement"></class>-->
+<!--            <class name="cookbook.DragAndDrop"></class>-->
+<!--            <class name="cookbook.AlertElement"></class>-->
+            <class name="cookbook.ConfirmEle"></class>
+<!--            <class name="cookbook.PromptElement"></class>-->
+        </classes>
+    </test>
+</suite>
